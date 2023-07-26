@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Product 1",
+    "description": "This is the first product",
+    "price": 9.99,
+    "quantity": 100,
+    "category": "Category 1",
+    "tags": ["tag1", "tag2", "tag3"],
+    "createdAt": ISODate("2023-07-26T10:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T10:00:00.000Z")
+  },
+  {
+    "name": "Product 2",
+    "description": "This is the second product",
+    "price": 19.99,
+    "quantity": 50,
+    "category": "Category 1",
+    "tags": ["tag1", "tag4"],
+    "createdAt": ISODate("2023-07-25T14:30:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T09:45:00.000Z")
+  },
+  {
+    "name": "Product 3",
+    "description": "This is the third product",
+    "price": 29.99,
+    "quantity": 200,
+    "category": "Category 2",
+    "tags": ["tag2", "tag5"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 4",
+    "description": "This is the fourth product",
+    "price": 6.99,
+    "quantity": 89,
+    "category": "Category 2",
+    "tags": ["tag2", "tag5"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 5",
+    "description": "This is the fifth product",
+    "price": 3.99,
+    "quantity": 69,
+    "category": "Category 2",
+    "tags": ["tag4", "tag7"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 6",
+    "description": "This is the sixth product",
+    "price": 5.77,
+    "quantity": 67,
+    "category": "Category 2",
+    "tags": ["tag5", "tag8"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 7",
+    "description": "This is the seventh product",
+    "price": 4.33,
+    "quantity": 62,
+    "category": "Category 2",
+    "tags": ["tag6", "tag9"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 8",
+    "description": "This is the eigth product",
+    "price": 5.71,
+    "quantity": 61,
+    "category": "Category 2",
+    "tags": ["tag7", "tag10"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 9",
+    "description": "This is the ninth product",
+    "price": 9.21,
+    "quantity": 57,
+    "category": "Category 2",
+    "tags": ["tag8", "tag11"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 10",
+    "description": "This is the tenth product",
+    "price": 9.21,
+    "quantity": 57,
+    "category": "Category 2",
+    "tags": ["tag8", "tag11"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 11",
+    "description": "This is the eleventh product",
+    "price": 7.81,
+    "quantity": 43,
+    "category": "Category 2",
+    "tags": ["tag9", "tag12"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 12",
+    "description": "This is the twelth product",
+    "price": 7.81,
+    "quantity": 43,
+    "category": "Category 2",
+    "tags": ["tag10", "tag13"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 13",
+    "description": "This is the thirteenth product",
+    "price": 6.31,
+    "quantity": 32,
+    "category": "Category 2",
+    "tags": ["tag11", "tag14"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 14",
+    "description": "This is the fourteenth product",
+    "price": 4.31,
+    "quantity": 36,
+    "category": "Category 2",
+    "tags": ["tag12", "tag15"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 15",
+    "description": "This is the fifteenth product",
+    "price": 5.64,
+    "quantity": 38,
+    "category": "Category 2",
+    "tags": ["tag13", "tag16"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 16",
+    "description": "This is the sixteenth product",
+    "price": 6.21,
+    "quantity": 56,
+    "category": "Category 2",
+    "tags": ["tag14", "tag17"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 17",
+    "description": "This is the seventeenth product",
+    "price": 3.81,
+    "quantity": 43,
+    "category": "Category 2",
+    "tags": ["tag15", "tag18"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 18",
+    "description": "This is the eighteenth product",
+    "price": 2.71,
+    "quantity": 52,
+    "category": "Category 2",
+    "tags": ["tag16", "tag19"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 19",
+    "description": "This is the nineteenth product",
+    "price": 5.87,
+    "quantity": 89,
+    "category": "Category 2",
+    "tags": ["tag17", "tag20"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+  {
+    "name": "Product 20",
+    "description": "This is the twentieth product",
+    "price": 6.75,
+    "quantity": 96,
+    "category": "Category 2",
+    "tags": ["tag18", "tag21"],
+    "createdAt": ISODate("2023-07-24T12:00:00.000Z"),
+    "updatedAt": ISODate("2023-07-26T08:15:00.000Z")
+  },
+]
